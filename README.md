@@ -1,6 +1,6 @@
 Hello, I like math and I intend to place some mathematical notes here together with their LaTeX sources. 
 
-I will also make some computational mathematics programs avaiable, probably mostly in algebra, and written mostly in Python.
+I will also make some computational mathematics programs avaiable, probably mostly for algebra, and written mostly in Python.
 
 
 Feel free to contact me.
